@@ -12,4 +12,4 @@ To run tests locally:
 - run 'npm run build' to compile Typescript
 - run 'npm test' to run tests
 
-I have completed a version of the function which mixes tariffs to find the absolute cheapest solution. Can send on request.
+I have also completed a version of the function which mixes tariffs to find the absolute cheapest solution. Can send on request.
