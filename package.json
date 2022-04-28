@@ -9,15 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/apoteka1/Coding-task_Joseph-Ackroyd.git"
+		"url": "https://github.com/apoteka1/Joseph-Ackroyd_coding-task.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/apoteka1/Coding-task_Joseph-Ackroyd/issues"
+		"url": "https://github.com/apoteka1/Joseph-Ackroyd_coding-task/issues"
 	},
-	"homepage": "https://github.com/apoteka1/Coding-task_Joseph-Ackroyd#readme",
+	"homepage": "https://github.com/apoteka1/Joseph-Ackroyd_coding-task#readme",
 	"devDependencies": {
 		"@types/jest": "^27.4.1",
 		"jest": "^27.5.1",
