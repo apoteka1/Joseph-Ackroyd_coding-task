@@ -1,0 +1,27 @@
+{
+	"name": "coding-task_joseph-ackroyd",
+	"version": "1.0.0",
+	"description": "Junior Software Engineer Interview Task - Joseph Ackroyd",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watch",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/apoteka1/Coding-task_Joseph-Ackroyd.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/apoteka1/Coding-task_Joseph-Ackroyd/issues"
+	},
+	"homepage": "https://github.com/apoteka1/Coding-task_Joseph-Ackroyd#readme",
+	"devDependencies": {
+		"@types/jest": "^27.4.1",
+		"jest": "^27.5.1",
+		"ts-jest": "^27.1.4",
+		"typescript": "^4.6.3"
+	}
+}
